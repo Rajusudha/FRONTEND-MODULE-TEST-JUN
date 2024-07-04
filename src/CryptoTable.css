@@ -1,0 +1,30 @@
+/* src/CryptoTable.css */
+.crypto-table {
+    padding: 20px;
+  }
+  
+  .crypto-table input {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  .crypto-table button {
+    margin-right: 10px;
+    padding: 5px 10px;
+  }
+  
+  .crypto-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .crypto-table th, .crypto-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .crypto-table th {
+    background-color: #f2f2f2;
+  }
+  
